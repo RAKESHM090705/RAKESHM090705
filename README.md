@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @RAKESHM090705
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- iam going to start a statup
+- thank you for spending your valuable time
+- 
+
+<!---
+RAKESHM090705/RAKESHM090705 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
